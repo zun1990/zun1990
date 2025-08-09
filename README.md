@@ -1,11 +1,13 @@
-## Hi there 👋
+## About Me👋
 
 Data & Analytics Professional | SQL | Python | Tableau | Supply Chain Optimization
 
 Aspiring Data Analyst with a strong foundation in SQL, Python, Tableau, and Excel, specializing in transforming complex datasets into strategic insights. Passionate about data visualization, research analytics, and market intelligence to drive business decisions.
 
 🔹 10+ years in Supply Chain & Logistics – Expertise in inventory control, process optimization, and team leadership within high-volume fulfillment environments.
+
 🔹 Skills: SQL, Python, Tableau, MySQL, Excel, Data Storytelling, Stakeholder Engagement
+
 🔹 Currently: Building data projects, enhancing analytics skills, and sharing my learning journey.
 <!--
 **zun1990/zun1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
